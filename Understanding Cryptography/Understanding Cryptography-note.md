@@ -27,3 +27,9 @@ graph TB
 
 ### 1.2 对称密码学
 
+#### 1.2.1 基础知识
+
+对称加密方案也称为对称密钥(Symmetric-key)、秘密密钥(secret-key)和单密钥(Single-key)方案(或算法)。
+
+![图1-5](img/图1-5.png)
+
